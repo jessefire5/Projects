@@ -1,2 +1,2 @@
 # Projects
-This is where i store all my coding projects for college
+This is a snake game i made using html
